@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SheepDog\AppMain.cs">
+    <Files>
+      <File FileName="SheepDog\AppMain.cs" Line="11" Column="43" />
+      <File FileName="SheepDog\Defines.cs" Line="15" Column="1" />
+      <File FileName="SheepDog\Objects.cs" Line="9" Column="34" />
+      <File FileName="SheepDog\Dog.cs" Line="85" Column="2" />
+      <File FileName="SheepDog\Sheep.cs" Line="34" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
